@@ -15,7 +15,8 @@ class MyProfiles:
     def __init__(self):
     	self.author = "ReztDev",
         self.name = "Muhammad Rizki",
-        self.skill = {"python", "html", "css", "bash", "networking"},
+        self.language = {"python", "html", "css", "bash"},
+        self.skill = {"programming", "networking", "analyst malware"},
         self.operating_system = {"windows", "linux"}
 
     def say_hi(self):
